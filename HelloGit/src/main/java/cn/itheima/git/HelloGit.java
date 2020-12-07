@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("更新2..");
         System.out.println("创建分支");
         System.out.println("主干添加0.0.0.0");
+        System.out.println("在线添加0.0.0.0");
     }
 }
